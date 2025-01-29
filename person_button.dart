@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'person.dart';
-import 'updateDatabase.dart';
+import 'update_database.dart';
 
 class PersonButton extends StatefulWidget {
   final String userName;

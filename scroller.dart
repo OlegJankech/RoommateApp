@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/person.dart';
 import 'person_button.dart';
-import 'updateDatabase.dart';
+import 'update_database.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class Scroller extends StatefulWidget {

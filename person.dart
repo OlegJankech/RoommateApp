@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'debt.dart';
 import 'add_debt_button.dart';
-import 'updateDatabase.dart';
+import 'update_database.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'mark_all_paid_button.dart';
 
